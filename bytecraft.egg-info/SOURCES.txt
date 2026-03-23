@@ -1,0 +1,11 @@
+LICENSE
+README.md
+setup.py
+bytecraft/__init__.py
+bytecraft/__main__.py
+bytecraft/interpreter.py
+bytecraft.egg-info/PKG-INFO
+bytecraft.egg-info/SOURCES.txt
+bytecraft.egg-info/dependency_links.txt
+bytecraft.egg-info/entry_points.txt
+bytecraft.egg-info/top_level.txt

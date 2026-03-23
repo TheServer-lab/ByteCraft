@@ -1,0 +1,11 @@
+# Bytecraft example
+
+set-working-folder "project"
+
+make-folder "src"
+make-folder "src/utils"
+make-folder "assets"
+
+make-file "README.md" with "# My Project"
+make-file "src/main.py" with "print('Hello, World!')"
+make-file "src/utils/helper.py"
