@@ -1,2 +1,0 @@
-[console_scripts]
-bytecraft = bytecraft.__main__:main
