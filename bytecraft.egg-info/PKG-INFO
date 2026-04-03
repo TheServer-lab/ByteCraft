@@ -1,0 +1,29 @@
+Metadata-Version: 2.4
+Name: bytecraft
+Version: 0.6.4
+Summary: A lightweight DSL for scaffolding files and folders
+Author: Sourasish Das
+License: SOCL-1.0
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Topic :: Utilities
+Requires-Python: >=3.10
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: classifier
+Dynamic: description
+Dynamic: description-content-type
+Dynamic: license
+Dynamic: license-file
+Dynamic: requires-python
+Dynamic: summary
+
+# ByteCraft
+
+> A human-readable DSL for scaffolding files and folders.
+
+pip install bytecraft
+
+See the full README.md in the release archive or the project repo.
